@@ -33,7 +33,7 @@ biological interpretation of NGS data.
 
 ### 📌 Featured Project
 
-**[Cancer Gene Expression Classification using Machine Learning]((https://github.com/Lei9683/cancer-gene-expression-classification))**  
+**[Cancer Gene Expression Classification using Machine Learning](https://github.com/Lei9683/cancer-gene-expression-classification)**  
 Built a cancer classification model using RNA-Seq gene expression data,
 including EDA, PCA, heatmap visualization, feature selection, and model
 comparison (Logistic Regression, Random Forest, SVM). Achieved 99.38%
