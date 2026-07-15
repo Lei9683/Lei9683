@@ -23,8 +23,6 @@ biology wet-lab techniques (DNA/RNA extraction, PCR) that supports deeper
 biological interpretation of NGS data.
 
 - 🎓 MSc in Agriculture, Kyoto University
-- 💻 Currently focused on NGS bioinformatics analysis and machine learning
-  applications in genomic data
 
 ### 🛠️ Tools & Skills
 **Languages**: Python, R  
