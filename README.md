@@ -24,6 +24,11 @@ biological interpretation of NGS data.
 
 - 🎓 MSc in Agriculture, Kyoto University
 
+- Interested in:
+🔬Field Application Scientist
+📊Bioinformatics
+🧬Life Science
+
 ### 🛠️ Tools & Skills
 **Languages**: Python, R  
 **Bioinformatics**: STAR, samtools, featureCounts, WGCNA, GO enrichment analysis  
